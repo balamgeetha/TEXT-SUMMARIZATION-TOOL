@@ -30,3 +30,10 @@ In conclusion, the Text Summarization Tool not only demonstrates the practical i
 
 
 
+** output**
+![Image](https://github.com/user-attachments/assets/28f358a6-c2e8-4fda-8898-b5b5b1c3017e)
+
+![Image](https://github.com/user-attachments/assets/4f75edd3-028c-4dd0-9d85-568cba2d6dae)
+
+
+
